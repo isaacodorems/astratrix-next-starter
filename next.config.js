@@ -6,11 +6,6 @@ const nextConfig = {
 module.exports = nextConfig
 ```
 
-4. Scroll down, commit message: `Fix next.config.js`
-5. Click **"Commit changes"**
-
----
-
 ### **Step 7: Redeploy on Vercel**
 
 Now Vercel should automatically detect your changes and redeploy! 
